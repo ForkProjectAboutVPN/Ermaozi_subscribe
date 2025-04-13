@@ -19,3 +19,4 @@
 [2025-04-12 20:10:14] [WARN] 获取 v2ray 订阅失败：https://fs.v2rayse.com/share/20250412/h18kpjjuei.txt - 524
 [2025-04-12 20:11:54] [WARN] 获取 clash 订阅失败：https://fs.v2rayse.com/share/20250412/0fempdpv38.yaml - 524
 [2025-04-12 20:11:54] [WARN] 未能获取新的更新内容
+[2025-04-13 08:52:18] [INFO] 更新成功：['v2ray: 200', 'clash: 200']
